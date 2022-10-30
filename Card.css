@@ -21,14 +21,14 @@
 
 html{
  font-size: 62.50%;
-    font-family: 'Lexend Deca', sans-serif;
+ font-family: 'League Spartan', sans-serif;
 
 }
 
 body{
     font-size: 1.2rem;
-    font-family: 'Lexend Deca', sans-serif;
-background-image: url(./images/bg-pattern-top-desktop.svg) , url(./images/bg-pattern-bottom-desktop.svg);
+    font-family: 'League Spartan', sans-serif;
+    background-image: url(./images/bg-pattern-top-desktop.svg) , url(./images/bg-pattern-bottom-desktop.svg);
 background-repeat: no-repeat;
 background-position: 0rem 0rem, 44rem 33rem;
 }
@@ -150,7 +150,7 @@ color: var(--Light-Grayish-Magenta);
 .profile span{
     position: relative;
     left: 2rem;
-    top: .1rem;
+    top: 1rem;
     color:var(--Dark-Grayish-Magenta);
 }
 
